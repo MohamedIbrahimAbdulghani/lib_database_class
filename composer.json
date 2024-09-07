@@ -1,0 +1,17 @@
+{
+    "name": "mvc/backend2024",
+    "description": "database class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mvc\\Backend2024\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Ibrahim",
+            "email": "mohamedibrahimabdulghani@gmail.com"
+        }
+    ],
+    "require": {}
+}
